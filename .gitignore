@@ -1,0 +1,7 @@
+*.o 
+*.mod
+*.*~
+*.log
+*.sav
+sav
+.DS_Store
